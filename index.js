@@ -6,7 +6,7 @@ document.getElementById('t-calculation').addEventListener('click', function () {
     }
     else {
         area.innerText = "Input can not be negative"
-        window.alert(area.fontcolor("red"));
+        
     }
 })
 document.getElementById('r-calculation').addEventListener('click', function () {
